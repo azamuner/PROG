@@ -6,7 +6,7 @@ import java.util.*;
 /**
  * Write a description of class CalculatorAgata here.
  *
- * @author (your name)
+ * @author (Agata Zamuner)
  * @version (a version number or a date)
  */
 public class CalculatorAgata extends JFrame implements ActionListener {
